@@ -1,0 +1,36 @@
+body
+{
+    background-color: greenyellow;
+}
+
+#span
+{
+    font-size: 50;
+    text-align: left;
+    padding-left: 50;
+}
+
+#span1
+{
+    font-size: 50;
+    float: right;
+    padding-right: 200;
+}
+
+#p2tag
+{
+    font-size: 40;
+    color: red;
+}
+
+#ptag
+{
+    font-size: 50;
+    color: black;
+}
+
+#p1tag
+{
+    font-size: 50;
+    color: black;
+}
